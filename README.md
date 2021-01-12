@@ -11,6 +11,8 @@ Experienced in a number of programming languages including C, Java, Ruby and Pyt
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have jumped out of an aeroplane 13 times
 
+[![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mikepthomas)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mikepthomas/mikepthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
