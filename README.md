@@ -6,7 +6,7 @@ I am experienced in a number of programming languages including Scala, Java, Jav
 
 I have worked within an agile team environment using the source control tools Subversion and Git and I am familiar with continuous integration tools such as Jenkins and Hudson.
 
-- 🌱 I’m currently learning C++, Java 21, TypeScript & React
+- 🌱 I’m currently learning C++, Java 21, Scala 3, TypeScript & Next.js
 - 💬 Ask me about 3D Printing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mikepaulthomas/)
 - 😄 Pronouns: he/him
